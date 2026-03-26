@@ -56,4 +56,49 @@ This is a simple and commonly used dataset for learning regression concepts.
 
 ## 📈 Model Performance
 
-* The model shows a st
+* The model shows a strong linear relationship between experience and salary
+* Accuracy is evaluated using metrics like R² score
+
+---
+
+## 🔮 Prediction
+
+The model predicts salary based on input:
+
+* Example:
+
+  * Input: 5 years experience
+  * Output: Predicted salary value
+
+---
+
+## 🚀 How to Run the Project
+
+1. Open the notebook in Google Colab
+2. Run all cells step-by-step
+3. Enter years of experience to get salary prediction
+
+---
+
+## 📂 Project Structure
+
+salary-prediction/
+│── model.ipynb
+│── salary_model.pkl
+│── README.md
+
+---
+
+## 💡 Future Improvements
+
+* Add more features (education, skills, location)
+* Use advanced regression models
+* Deploy using Streamlit
+
+---
+
+## ⭐ Conclusion
+
+This project shows how Machine Learning can be used to predict salaries and understand trends based on experience, helping in data-driven decision making.
+
+---
